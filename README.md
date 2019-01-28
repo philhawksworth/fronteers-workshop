@@ -17,7 +17,7 @@ To build the site you need:
 ```bash
 
 # clone this repository
-git clone git@github.com:netlify/fronteers-workshop.git
+git clone git@github.com:philhawksworth/fronteers-workshop.git
 
 # go to the working directory
 # there are several directories to help us through the exercises
